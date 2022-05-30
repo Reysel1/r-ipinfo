@@ -24,14 +24,12 @@ function search() {
 
 
 $(function(){
-
     $("#__hidecont").hide();
-
         $("#__btnshow").click(function(){
             $(".card").show();
-    
     })
 })
+
 
 
 
