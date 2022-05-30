@@ -7274,6 +7274,7 @@ textarea.form-control-lg {
 }
 
 .text-center {
+  color: white;
   text-align: center !important;
 }
 
